@@ -1,0 +1,36 @@
+@font-face {
+   font-family: "Montserrat Medium";
+   src: url("fonts/Montserrat Medium.woff") format("woff"), url("fonts/Montserrat Medium.eot") format("embedded-opentype"), url("fonts/Montserrat Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.ttf") format("truetype"), url("fonts/Montserrat Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Proxima Nova Light";
+   src: url("fonts/Proxima Nova Light.woff") format("woff"), url("fonts/Proxima Nova Light.eot") format("embedded-opentype"), url("fonts/Proxima Nova Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald Regular.woff") format("woff"), url("fonts/Oswald Regular.eot") format("embedded-opentype"), url("fonts/Oswald Regular.ttf") format("truetype"), url("fonts/Oswald Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald Regular.woff") format("woff"), url("fonts/Oswald Regular.eot") format("embedded-opentype"), url("fonts/Oswald Regular.ttf") format("truetype"), url("fonts/Oswald Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
